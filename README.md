@@ -4,5 +4,6 @@
  la ecuacion diferencial de primer grado. El problema fue programado en los lenguajes Fortran y Python. 
 
 El programa en Python cuenta con todas las subrutinas integradas en el programa caida_vel.py
+
 En Fortran se separa el metodo de euler en el programa met_euler.f90 y el programa principal es
 vel_caide.f90
