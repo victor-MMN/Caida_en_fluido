@@ -16,9 +16,9 @@
 #	 t: Tiempo a evaluar, real.
 #	 bf: Constante de friccion del fluido, real.
 #	 Vin: Velocidad en ese momento, real.
-#    V0: Velocidad inicial, real.
+#    	 V0: Velocidad inicial, real.
 #	 i,j,c: Contadores o asignadores, entero.
-#    nada: Variable que no vamos a usar pero la necesitamos por que la funcion necesita dos variables, real.
+#    	 nada: Variable que no vamos a usar pero la necesitamos por que la funcion necesita dos variables, real.
 
 import math # Paquete para usar las funciones trigonometricas.
 import sys  # Paquete para usar el comando exit() que permite detener el programa en esa linea.
